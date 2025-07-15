@@ -1,5 +1,7 @@
 # GardenAPP
 
+JOAQUIN ELENA
+
 La aplicación GardenApp tiene algunos errores que deben ser corregidos:
 
 1- En la lista no se muestra correctamente la imagen de cada planta (2 puntos)
